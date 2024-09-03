@@ -1,0 +1,14 @@
+E:\DotNet\DotNet\BasicApp\bin\Debug\net8.0\BasicApp.exe
+E:\DotNet\DotNet\BasicApp\bin\Debug\net8.0\BasicApp.deps.json
+E:\DotNet\DotNet\BasicApp\bin\Debug\net8.0\BasicApp.runtimeconfig.json
+E:\DotNet\DotNet\BasicApp\bin\Debug\net8.0\BasicApp.dll
+E:\DotNet\DotNet\BasicApp\bin\Debug\net8.0\BasicApp.pdb
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\BasicApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\BasicApp.AssemblyInfoInputs.cache
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\BasicApp.AssemblyInfo.cs
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\BasicApp.csproj.CoreCompileInputs.cache
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\BasicApp.dll
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\refint\BasicApp.dll
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\BasicApp.pdb
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\BasicApp.genruntimeconfig.cache
+E:\DotNet\DotNet\BasicApp\obj\Debug\net8.0\ref\BasicApp.dll
